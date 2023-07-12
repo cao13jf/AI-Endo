@@ -1,5 +1,6 @@
 <h1 align="center"> Document of AI-Endo</h1>
-<HR SIZE=10>
+
+[//]: # (<HR SIZE=10>)
 <p align="justify">This is the pytorch implementation of paper "<i>Intelligent Surgical Workflow Recognition for Endoscopic
 Submucosal Dissection with Real-time Animal Study</i>" by Jianfeng Cao, Hon-Chi Yip, Yueyao Chen, Markus Scheppach, Xiaobei Luo,
 Hongzheng Yang, Ming Kit Cheng, Yonghao Long, Yueming Jin, Philip Wai-Yan Chiu, Yeung Yam, Helen Mei-Ling Meng, and Qi Dou.</p>
