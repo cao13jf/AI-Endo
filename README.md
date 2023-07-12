@@ -39,9 +39,7 @@ Pretrained mdoels are available at [Google Drive](https://drive.google.com/drive
 The code of this repository is partially referred to [Trans-SVNet](https://github.com/xjgaocs/Trans-SVNet) and [TMRNet](https://github.com/YuemingJin/TMRNet).
 
 <h2>Citation</h2>
-```text
 TBD
-```
 
 <h2>Correspondence</h2>
 <p align="justify">For further question about the code, please contact <code>jianfeng13.cao@gmail.com</code>.</p>
