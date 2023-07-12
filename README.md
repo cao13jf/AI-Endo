@@ -36,7 +36,7 @@ python online.py -s --cfg test
 Pretrained mdoels are available at [Google Drive](https://drive.google.com/drive/folders/1aMgEuxhZjLtSJ3ica6EVKYkGeMGG1Vtw?usp=share_link).
 
 <h2>Acknowledgment</h2>
-The code of this repository is partially referred to [Trans-SVNet](https://github.com/xjgaocs/Trans-SVNet) and [TMRNet](https://github.com/YuemingJin/TMRNet).
+The code of this repository is partially referred to <a href="https://github.com/xjgaocs/Trans-SVNet">Trans-SVNet</a> and <a href="https://github.com/YuemingJin/TMRNet">TMRNet</a>.
 
 <h2>Citation</h2>
 TBD
