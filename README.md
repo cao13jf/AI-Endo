@@ -16,7 +16,7 @@ conda activate AI-Endo
 </pre>
 
 <h2>Data preparation</h2>
-AI-End is trained with downsampled images of endoscopic video. The user may access examples from [figshare](https://doi.org/10.6084/m9.figshare.23506866.v3), which 
+AI-End is trained with downsampled images of endoscopic video. The user may access examples from [figshare](https://doi.org/10.6084/m9.figshare.23506866.v4), which 
 should be downloaded and saved locally as 
 <pre>
 DATA_ROOT--|
