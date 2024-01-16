@@ -1,11 +1,12 @@
 <h1 align="center"> Document of AI-Endo</h1>
 
 [//]: # (<HR SIZE=10>)
-<p align="justify">This is the pytorch implementation of paper "<i>Intelligent Surgical Workflow Recognition for Endoscopic
-Submucosal Dissection with Real-time Animal Study</i>" by Jianfeng Cao, Hon-Chi Yip, Yueyao Chen, Markus Scheppach, Xiaobei Luo,
+<b align="justify">This is the pytorch implementation of paper "<i><b>Intelligent Surgical Workflow Recognition for Endoscopic
+Submucosal Dissection with Real-time Animal Study</i></b>" by Jianfeng Cao, Hon-Chi Yip, Yueyao Chen, Markus Scheppach, Xiaobei Luo,
 Hongzheng Yang, Ming Kit Cheng, Yonghao Long, Yueming Jin, Philip Wai-Yan Chiu, Yeung Yam, Helen Mei-Ling Meng, and Qi Dou.</p>
 
 [![Watch the video](./imgs/gui.png)](https://github.com/cao13jf/ESDGUI)
+<p align="center">Updated software of AI-Endo</p>
 
 <h2>Dependency installation</h2>
 The model is developed based on pytorch. To install dependencies, run
@@ -60,7 +61,18 @@ Pretrained mdoels are available at [Google Drive](https://drive.google.com/drive
 The code of this repository is partially referred to <a href="https://github.com/xjgaocs/Trans-SVNet">Trans-SVNet</a> and <a href="https://github.com/YuemingJin/TMRNet">TMRNet</a>.
 
 <h2>Citation</h2>
-TBD
+<pre><code>
+@article{cao2023intelligent,
+  title={Intelligent surgical workflow recognition for endoscopic submucosal dissection with real-time animal study},
+  author={Cao, Jianfeng and Yip, Hon-Chi and Chen, Yueyao and Scheppach, Markus and Luo, Xiaobei and Yang, Hongzheng and Cheng, Ming Kit and Long, Yonghao and Jin, Yueming and Chiu, Philip Wai-Yan and others},
+  journal={Nature Communications},
+  volume={14},
+  number={1},
+  pages={6676},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+</code></pre>
 
 <h2>Correspondence</h2>
 <p align="justify">For further question about the code, please contact <code>jianfeng13.cao@gmail.com</code>.</p>
